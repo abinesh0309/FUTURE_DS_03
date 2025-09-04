@@ -1,0 +1,51 @@
+Unnamed: 0,Student ID,Well versed with the subject,Explains concepts in an understandable way,Use of presentations,Degree of difficulty of assignments,Solves doubts willingly,Structuring of the course,Provides support for students going above and beyond,Course recommendation based on relevance
+1,S001,Average,Excellent,Poor,Difficult,Excellent,Fair,Poor,Not recommended
+2,S002,Fair,Poor,Excellent,Very Difficult,Good,Excellent,Average,Highly recommended
+3,S003,Excellent,Excellent,Good,Too Easy,Poor,Average,Excellent,Highly recommended
+4,S004,Poor,Fair,Fair,Too Easy,Fair,Poor,Good,Neutral
+5,S005,Poor,Average,Fair,Very Difficult,Good,Poor,Fair,Recommended
+6,S006,Fair,Good,Fair,Difficult,Excellent,Poor,Fair,Highly recommended
+7,S007,Poor,Fair,Fair,Too Easy,Excellent,Fair,Excellent,Neutral
+8,S008,Poor,Excellent,Fair,Difficult,Poor,Excellent,Poor,Highly recommended
+9,S009,Average,Poor,Good,Manageable,Good,Average,Good,Not recommended
+10,S010,Poor,Average,Poor,Too Easy,Excellent,Fair,Excellent,Not recommended
+11,S011,Good,Poor,Good,Difficult,Average,Good,Fair,Highly recommended
+12,S012,Average,Average,Average,Very Difficult,Average,Average,Excellent,Neutral
+13,S013,Excellent,Poor,Good,Moderate,Good,Fair,Fair,Highly recommended
+14,S014,Fair,Fair,Good,Difficult,Excellent,Excellent,Average,Highly recommended
+15,S015,Good,Average,Average,Too Easy,Excellent,Good,Average,Not recommended
+16,S016,Excellent,Average,Average,Moderate,Excellent,Average,Fair,Recommended
+17,S017,Average,Fair,Poor,Difficult,Excellent,Good,Good,Not recommended
+18,S018,Poor,Good,Poor,Moderate,Good,Excellent,Poor,Highly recommended
+19,S019,Poor,Good,Poor,Too Easy,Excellent,Average,Good,Highly recommended
+20,S020,Poor,Poor,Good,Moderate,Average,Fair,Fair,Not recommended
+21,S021,Poor,Average,Average,Manageable,Excellent,Good,Good,Highly recommended
+22,S022,Poor,Fair,Poor,Manageable,Poor,Excellent,Poor,Highly recommended
+23,S023,Excellent,Good,Fair,Difficult,Poor,Excellent,Poor,Neutral
+24,S024,Fair,Average,Poor,Moderate,Poor,Average,Average,Neutral
+25,S025,Average,Average,Fair,Difficult,Good,Excellent,Excellent,Highly recommended
+26,S026,Excellent,Average,Excellent,Too Easy,Excellent,Fair,Average,Recommended
+27,S027,Fair,Poor,Excellent,Too Easy,Poor,Poor,Average,Neutral
+28,S028,Excellent,Poor,Poor,Manageable,Good,Good,Excellent,Not recommended
+29,S029,Fair,Excellent,Average,Manageable,Average,Excellent,Average,Neutral
+30,S030,Good,Excellent,Good,Difficult,Average,Average,Excellent,Neutral
+31,S031,Fair,Excellent,Fair,Very Difficult,Excellent,Excellent,Average,Highly recommended
+32,S032,Average,Excellent,Fair,Manageable,Fair,Poor,Good,Not recommended
+33,S033,Poor,Poor,Poor,Difficult,Poor,Fair,Excellent,Neutral
+34,S034,Poor,Good,Good,Very Difficult,Fair,Average,Excellent,Recommended
+35,S035,Good,Poor,Excellent,Difficult,Good,Good,Excellent,Not recommended
+36,S036,Good,Good,Excellent,Very Difficult,Good,Excellent,Excellent,Recommended
+37,S037,Fair,Excellent,Average,Difficult,Fair,Good,Poor,Highly recommended
+38,S038,Good,Good,Fair,Very Difficult,Good,Fair,Good,Recommended
+39,S039,Fair,Excellent,Average,Too Easy,Good,Excellent,Poor,Recommended
+40,S040,Poor,Excellent,Good,Moderate,Poor,Good,Excellent,Recommended
+41,S041,Fair,Poor,Excellent,Moderate,Poor,Poor,Poor,Recommended
+42,S042,Average,Fair,Excellent,Manageable,Excellent,Excellent,Poor,Recommended
+43,S043,Fair,Fair,Average,Moderate,Poor,Good,Good,Not recommended
+44,S044,Fair,Average,Fair,Too Easy,Average,Excellent,Good,Neutral
+45,S045,Excellent,Average,Average,Very Difficult,Fair,Average,Fair,Neutral
+46,S046,Good,Average,Fair,Very Difficult,Good,Poor,Fair,Recommended
+47,S047,Average,Poor,Average,Too Easy,Poor,Good,Excellent,Neutral
+48,S048,Excellent,Fair,Good,Difficult,Good,Excellent,Poor,Recommended
+49,S049,Average,Fair,Good,Difficult,Excellent,Poor,Excellent,Not recommended
+50,S050,Average,Fair,Excellent,Difficult,Excellent,Poor,Fair,Recommended
